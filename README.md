@@ -1,7 +1,4 @@
 # Music-mood-mapper-using-Django
-Here is your **final, clean, simple README.md**, perfectly matching **your exact project behavior**:
-
----
 
 # 🎵 MusicMood Mapper
 
